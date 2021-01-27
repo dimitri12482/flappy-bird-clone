@@ -1,4 +1,4 @@
-#Flappy Bird JavaScript
+## Flappy Bird JavaScript
 
 I create a Flappy Bird game using JavaScript and HTML (or HTML5 canvas). I also added sound effects, similar to the original game. 
 
